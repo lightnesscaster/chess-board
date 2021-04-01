@@ -1,6 +1,8 @@
 """
     Ahira Justice, ADEFOKUN
     justiceahira@gmail.com
+    Daniel Johnston, lightnesscaster
+    johnstondaniel4@gmail.com
 """
 
 
@@ -38,7 +40,6 @@ BASICFONTSIZE = 30
 
 def terminate():
     pygame.quit()
-    sys.exit()
 
 
 def checkForQuit():

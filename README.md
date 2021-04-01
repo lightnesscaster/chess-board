@@ -1,3 +1,5 @@
+The only difference in this fork is that it doesn't quit the entire programming when closing a chess board.
+
 # chess-board
 
 ## What is chess-board?
